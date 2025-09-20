@@ -41,10 +41,10 @@ tests/
 ```
 
 ## Phase 3.1: Project Setup
-- [ ] **T001** Create Vite project structure with index.html, package.json, vite.config.js
-- [ ] **T002** Install core dependencies: sql.js, sortable.js for MVP functionality
-- [ ] **T003** [P] Setup basic HTML template with main page structure in index.html
-- [ ] **T004** [P] Create base CSS styles for responsive layout in src/styles/main.css
+- [x] **T001** Create Vite project structure with index.html, package.json, vite.config.js
+- [x] **T002** Install core dependencies: sql.js, sortable.js for MVP functionality
+- [x] **T003** [P] Setup basic HTML template with main page structure in index.html
+- [x] **T004** [P] Create base CSS styles for responsive layout in src/styles/main.css
 
 ## Phase 3.2: Tests First (TDD) ⚠️ MUST COMPLETE BEFORE 3.3
 **CRITICAL: These tests MUST be written and MUST FAIL before ANY implementation**
