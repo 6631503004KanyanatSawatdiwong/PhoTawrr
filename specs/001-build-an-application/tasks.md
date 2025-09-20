@@ -48,12 +48,12 @@ tests/
 
 ## Phase 3.2: Tests First (TDD) ⚠️ MUST COMPLETE BEFORE 3.3
 **CRITICAL: These tests MUST be written and MUST FAIL before ANY implementation**
-- [ ] **T005** [P] Contract test for DatabaseService.initialize() in tests/contract/DatabaseService.test.js
-- [ ] **T006** [P] Contract test for PhotoService.importPhotos() in tests/contract/PhotoService.test.js  
-- [ ] **T007** [P] Contract test for AlbumService.getAllAlbums() in tests/contract/AlbumService.test.js
-- [ ] **T008** [P] Contract test for UIController.initialize() in tests/contract/UIController.test.js
-- [ ] **T009** [P] Integration test for photo import workflow in tests/integration/photo-import.test.js
-- [ ] **T010** [P] Integration test for album drag-drop reordering in tests/integration/album-reorder.test.js
+- [x] **T005** [P] Contract test for DatabaseService.initialize() in tests/contract/DatabaseService.test.js
+- [x] **T006** [P] Contract test for PhotoService.importPhotos() in tests/contract/PhotoService.test.js  
+- [x] **T007** [P] Contract test for AlbumService.getAllAlbums() in tests/contract/AlbumService.test.js
+- [x] **T008** [P] Contract test for UIController.initialize() in tests/contract/UIController.test.js
+- [x] **T009** [P] Integration test for photo import workflow in tests/integration/photo-import.test.js
+- [x] **T010** [P] Integration test for album drag-drop reordering in tests/integration/album-reorder.test.js
 
 ## Phase 3.3: Core Implementation (ONLY after tests are failing)
 - [ ] **T011** [P] Photo model with validation in src/models/Photo.js
