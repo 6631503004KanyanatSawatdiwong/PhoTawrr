@@ -1,8 +1,9 @@
 # Feature Specification: Photo Album Organization Application
 
-**Feature Branch**: `001-build-an-application`  
+**Branch**: `main`  
 **Created**: 20 September 2025  
-**Status**: Draft  
+**Status**: Approved  
+**Feature ID**: 001-build-an-application  
 **Input**: User description: "build an application that can help me organise my photos in separate photo albums. Albums are grouped by date and can be re-organised by dragging and dropping on the main page. Albums are never in other nested albums. Within each album, photos are previewed in a tile-like interface."
 
 ## Execution Flow (main)
